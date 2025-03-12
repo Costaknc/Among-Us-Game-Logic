@@ -1,3 +1,11 @@
+####################################################
+#                                                  #
+# file: Makefile                                   #
+#                                                  #
+# Generic Makefile for the needs of project        #
+#                                                  #
+####################################################
+
 # Declaration of variables
 CC = gcc
 CFLAGS = -Wall -g
