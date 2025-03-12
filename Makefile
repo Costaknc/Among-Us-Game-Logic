@@ -1,15 +1,3 @@
-####################################################
-#                                                  #
-# file: Makefile                                   #
-#                                                  #
-# @Author:   Antonios Peris		                   #
-# @Version:  20-10-2020                            #
-# @email:    csdp1196@csd.uoc.gr	               #
-#                                                  #
-# Generic Makefile for the needs of project        #
-#                                                  #
-####################################################
-
 # Declaration of variables
 CC = gcc
 CFLAGS = -Wall -g
