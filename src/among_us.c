@@ -2,10 +2,6 @@
  *                                                 *
  * file: among_us.c                                *
  *                                                 *
- * @Author  Antonios Peris                         *
- * @Version 20-10-2020                             *
- * @email   csdp1196@csd.uoc.gr                    *
- *                                                 *
  * @brief   Implementation of among_us.h           *
  *                                                 *
  ***************************************************
