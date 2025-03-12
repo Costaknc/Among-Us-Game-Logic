@@ -2,11 +2,6 @@
  *                                                *
  * file: among_us.h                               *
  *                                                *
- *                                                *
- * @Author  Antonios Peris                        *
- * @Version 20-10-2020                            *
- * @email   csdp1196@csd.uoc.gr                   *
- *                                                *
  * @brief   Header file for the needs of cs-240   *
  * project 2020, with the structures and function *
  * prototypes                                     * 
