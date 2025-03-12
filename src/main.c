@@ -2,10 +2,6 @@
  *                                                             *
  * file: main.c                                                *
  *                                                             *
- * @Author  Antonios Peris                         		   	   *
- * @Version 20-10-2020                             			   *
- * @email   csdp1196@csd.uoc.gr                                *
- *                                                             *
  * @brief   Main function for the needs of cs-240 project 2020 *
  *                                                             *
  ***************************************************************
