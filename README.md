@@ -1,12 +1,5 @@
 # Among-Us-Game-Logic
 
-README
-======
-
-It is highly recommended to read this file before starting the
-development of your project. It is also highly recommended to study
-the inline comments in the provided source files.
-
 Directory structure
 -------------------
 
